@@ -1,14 +1,5 @@
 									Airport Management System
 
-Group Details (G3_2):
-202101171-Divyam Oza
-202101177-Jainam Shah (Group representative)
-202101181-Juhi Andharia
-202101212-Naitik Ravat
-202101214-Harikrushna Suhagiya
-Representative Contact Number - 9925787749
-
-
 DDL Script:
 
 CREATE SCHEMA Airport_management;
